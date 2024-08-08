@@ -1,1 +1,1 @@
-Movie Recommendation created using colab with efficient datasets.
+Movie Recommendation created using co-lab with efficient datasets.
